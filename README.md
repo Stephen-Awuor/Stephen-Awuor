@@ -11,13 +11,17 @@
 
 <br />
 
-### Languages and Tools:
+### Languages, Tools and skills:
 1. VS Code
 2. Laravel
 3. Html
 4. CSS
 5. Javascript
 6. Bootstrap
+7. Network set up, administration and troubleshooting.
+8. Data analysis and visualization using microsoft PowerBI
+9. Generla ICT technical support.
+10. Cloud Technologies (AWS)
 <br />
 <br />
 
