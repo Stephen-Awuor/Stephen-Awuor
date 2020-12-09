@@ -19,5 +19,6 @@
  
 
 [twitter]: https://twitter.com/@kaneya_steve
-[linkedin]: https://linkedin.com/in/Stephen Awuor
+[linkedin]: https://www.linkedin.com/in/stephen-awuor-900b51109/
+Website: https://stephen-awuor.github.io/portfolio/
 
